@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "tktsp.example.a17dtha2_aptracnghiem",
+  "variantName": "debug",
+  "elements": []
+}
